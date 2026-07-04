@@ -29,7 +29,7 @@
 | [16 → 17](#nivel-16--17) | Escaneo de puertos SSL |
 | [17 → 18 ⭐](#nivel-17--18-) | Comparación de archivos |
 | [18 → 19](#nivel-18--19) | SSH ejecutando comandos remotos |
-| [19 → 20](#nivel-19--20) | Binario SUID |
+| [19 → 20 ⭐ ](#nivel-19--20) | Binario SUID |
 | [20 → 21](#nivel-20--21) | Conexión TCP con Netcat |
 
 ---
@@ -314,7 +314,7 @@ ssh bandit18@bandit.labs.overthewire.org -p 2220 cat readme
 
 ---
 
-## Nivel 19 → 20
+## Nivel 19 → 20 ⭐
 **Concepto:** Binario con permisos SUID  
 **Herramientas:** SUID binary
 
@@ -369,4 +369,4 @@ echo "0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO" | nc -l -p 19968 &
 ---
 
 *Write-up by Yalianna | Cybersecurity Analyst*  
-*[GitHub](https://github.com/TU-USUARIO) · [LinkedIn](https://linkedin.com/in/TU-PERFIL)*
+*[GitHub](https://github.com/Y2208) · [LinkedIn](https://linkedin.com/in/yaliannavaldes)*
