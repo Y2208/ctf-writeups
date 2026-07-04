@@ -20,7 +20,7 @@
 
 | # | Wargame | Niveles completados | Categoría | Write-up |
 |---|---|---|---|---|
-| 01 | **Bandit** | 0 → 21 (en progreso) | Linux · SSH · Bash | [📄 Ver](./overthewire/bandit/) |
+| 01 | **Bandit** | 0 → 21 (en progreso) | Linux · SSH · Bash | [📄 Ver](./overthewire/bandit/level17-18.md) |
 
 ### 🟢 TryHackMe
 | # | Room / Sala | Categoría | Dificultad | Write-up |
